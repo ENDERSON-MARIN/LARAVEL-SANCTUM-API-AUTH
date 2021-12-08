@@ -28,10 +28,10 @@ cd project_dir
 php artisan serve
 
 you can check website will be up and running on localhost
-http://localhost:8000/api/register
-http://localhost:8000/api/login
-http://localhost:8000/api/user-profile
-http://localhost:8000/api/logout
+1) http://localhost:8000/api/register
+2) http://localhost:8000/api/login
+3) http://localhost:8000/api/user-profile
+4) http://localhost:8000/api/logout
 
 ### Prerequisites
 
