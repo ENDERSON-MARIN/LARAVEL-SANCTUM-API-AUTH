@@ -4,10 +4,11 @@ API PARA AUTENTICACIÓN DE USUARIOS LARAVEL-SANCTUM
 # Project Description
 API PARA AUTENTICACIÓN DE USUARIOS METODOS (register, login, user-profile, logout)
 # Screenshot
-![](/captura1.png)
-![](/captura2.png)
-![](/captura3.png)
-![](/captura4.png)
+![](public/assets/img/captura1.png)
+![](public/assets/img/captura2.png)
+![](public/assets/img/captura3.png)
+![](public/assets/img/captura4.png)
+
 
 ## Getting Started
 
