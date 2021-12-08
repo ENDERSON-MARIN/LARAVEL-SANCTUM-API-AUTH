@@ -23,6 +23,15 @@ git clone https://github.com/ENDERSON-MARIN/LARAVEL-SANCTUM-API-AUTH
 
 cd project_dir
 
+# CONFIGURE YOUR CREDENTIALS DATABASE MYSQL IN THE .ENV FILE:
+
+DB_CONNECTION=mysql
+DB_HOST="your database host"
+DB_PORT="your database port"
+DB_DATABASE="your database name"
+DB_USERNAME="your user database name"
+DB_PASSWORD="your password database name"
+
 # Then simply start your app
 
 php artisan serve
