@@ -19,11 +19,12 @@ API PARA AUTENTICACIÓN DE USUARIOS METODOS (register, login, user-profile, logo
 
 git clone https://github.com/ENDERSON-MARIN/LARAVEL-SANCTUM-API-AUTH
 
-# Change directory
+# Change directory and open in the text editor
 
-cd project_dir
+-   cd your-project-directory
+-   open in your text editor
 
-# CONFIGURE YOUR CREDENTIALS DATABASE MYSQL IN THE .ENV FILE:
+# Configure your credentials database in the .env file:
 
 -   DB_CONNECTION=mysql
 -   DB_HOST="your database host"
@@ -32,9 +33,9 @@ cd project_dir
 -   DB_USERNAME="your user database name"
 -   DB_PASSWORD="your password database name"
 
-# Then simply start your app
+# Very simply start your app
 
-php artisan serve
+php artisan serve --port 8000
 
 you can check website will be up and running on localhost
 1) http://localhost:8000/api/register
