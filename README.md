@@ -49,11 +49,9 @@ you need to install following software
 1.  WEB SERVER (PHP, APACHE)
 2.  DATABASE MYSQL
 3.  OTHER OPTIONS:
-    laragon https://laragon.org/download/index.html
-    OR
-    xammp https://www.apachefriends.org/download.html
-    OR
-    wammp https://sourceforge.net/projects/wampserver/files/latest/download
+    -   laragon https://laragon.org/download/index.html
+    -   xammp https://www.apachefriends.org/download.html
+    -   wammp https://sourceforge.net/projects/wampserver/files/latest/download
 
 ## Author
 
